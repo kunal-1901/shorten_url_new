@@ -1,0 +1,42 @@
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+
+logs/
+*.log
+*.log.*
+
+# Dependency
+jspm_packages/
+
+
+.npm
+.eslintcache
+
+# Optional 
+.node_repl_history
+
+# Env files
+.env
+
+
+# IDEs 
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+.DS_Store
+Thumbs.db
+
+dist/
+build/
+coverage/
+
+*.tsbuildinfo
+*.tgz
+*.lock-wscript
